@@ -1,0 +1,21 @@
+body{
+    background-color: #f3f3ff;
+}
+
+nav{
+    background-color: #4100ff;
+    height: 80px;
+    width: 100%;
+}
+
+.my_line{
+    background-color: #dcdcdc;
+    height: 2px;
+    width: 100%;
+}
+
+footer{
+    background-color: #0f0f35;
+    height: 200px;
+    width: 100%;
+}
